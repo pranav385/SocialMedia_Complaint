@@ -1,5 +1,8 @@
 # 🚀 Social Media Complaint Scraper – Twitter & LinkedIn (Blinkit Case Study)
 
+⚠️ Disclaimer:
+This project is intended for educational purposes only.
+
 This project focuses on scraping complaint posts about **Blinkit** from **Twitter (X)** and **LinkedIn**, with the goal of extracting user grievances, analyzing sentiment, and enabling issue tracking through structured data.
 
 ---
